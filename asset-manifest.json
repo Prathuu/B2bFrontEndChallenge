@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/B2bFrontEndChallenge/static/css/main.75a0e3eb.css",
+    "main.js": "/B2bFrontEndChallenge/static/js/main.8e8fcc67.js",
+    "static/media/hero.png": "/B2bFrontEndChallenge/static/media/hero.45aa75d0e75be10cadf9.png",
+    "static/media/Augie.png": "/B2bFrontEndChallenge/static/media/Augie.c52912907231e0616607.png",
+    "static/media/logo.png": "/B2bFrontEndChallenge/static/media/logo.5cef5ff29ba097d0737b.png",
+    "index.html": "/B2bFrontEndChallenge/index.html",
+    "main.75a0e3eb.css.map": "/B2bFrontEndChallenge/static/css/main.75a0e3eb.css.map",
+    "main.8e8fcc67.js.map": "/B2bFrontEndChallenge/static/js/main.8e8fcc67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a0e3eb.css",
+    "static/js/main.8e8fcc67.js"
+  ]
+}
